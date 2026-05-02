@@ -1,11 +1,4 @@
 
---SELECT names
-Language:	English  • 日本語 • 中文
-name	continent
-Afghanistan	Asia
-Albania	Europe
-Algeria	Africa
-Andorra	Europe
-Angola	Africa
-....
---
+--Pattern Matching Strings
+--This tutorial uses the LIKE operator to check names. We will be using the SELECT command on the table worl
+--Find the country that start with Y
