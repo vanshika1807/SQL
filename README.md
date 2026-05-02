@@ -1,2 +1,2 @@
 # SQL
-GFG &amp; LeetCode
+GFG &amp; LeetCode &amp; SQL ZOO Solutions
